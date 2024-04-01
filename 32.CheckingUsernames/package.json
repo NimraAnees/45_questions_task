@@ -1,0 +1,12 @@
+{
+  "name": "32.checkingusernames",
+  "version": "1.0.0",
+  "description": "In this typrscript file i solved 32nd question of 45 assignments of Governor Sindh IT Initiative",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nimra(00495811)",
+  "license": "ISC"
+}

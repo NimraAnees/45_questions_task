@@ -1,0 +1,12 @@
+{
+  "name": "24.moreconditionaltest",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved 24th question of 45 assignments of Governor Sindh IT Initiative",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nimra (00495811)",
+  "license": "ISC"
+}

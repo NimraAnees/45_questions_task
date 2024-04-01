@@ -1,0 +1,12 @@
+{
+  "name": "27.aliencolors3",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved 27th question of 45 assignments of Governor Sindh IT Initiative",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nimra (00495811)",
+  "license": "ISC"
+}

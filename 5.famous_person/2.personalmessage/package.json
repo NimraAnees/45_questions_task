@@ -1,0 +1,15 @@
+{
+  "name": "Personalmessage",
+  "version": "1.0.0",
+  "description": "In this typescript file i solved 2nd question of 45 assignments of Governor Sindh IT Initiative.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nimra(00495811)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  }
+}

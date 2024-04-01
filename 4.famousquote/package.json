@@ -1,0 +1,12 @@
+{
+  "name": "typescript and node js 45 assignments",
+  "version": "1.0.0",
+  "description": "in this typescript file i solved 4th question of 45 assignments of governor sindh it initiative",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nimra (00495811)",
+  "license": "ISC"
+}
